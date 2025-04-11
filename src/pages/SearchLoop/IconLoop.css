@@ -1,0 +1,22 @@
+.search-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items:flex-start;
+    gap: 40px;
+    width: 250px;
+    height:30px;
+    
+    
+}
+
+.search-form{
+    position: absolute;
+    top: 0;
+    right: 0;
+    top:40px;
+    padding-right: 400px;
+}
+
+.search-button{
+    position: relative;
+}
